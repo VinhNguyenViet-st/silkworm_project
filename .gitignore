@@ -1,10 +1,10 @@
 cat >> .gitignore <<'EOF'
 
 # Dataset
-dataset_classification.zip
-dataset_classification/
-Dataset.zip
-*.zip
+# dataset_classification.zip
+# dataset_classification/
+# Dataset.zip
+# *.zip
 
 # Model and output files
 outputs_knn/
