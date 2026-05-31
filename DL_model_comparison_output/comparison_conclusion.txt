@@ -1,0 +1,9 @@
+KẾT QUẢ SO SÁNH 3 MÔ HÌNH
+
+Mô hình có F1-score macro cao nhất: ResNet50
+F1-score macro: 0.9961
+
+Trong bài toán phân loại trứng tằm gồm 3 lớp bad, good và shell, F1-score macro là chỉ số quan trọng vì đánh giá trung bình hiệu quả trên từng lớp. Chỉ số này phù hợp khi dữ liệu có khả năng mất cân bằng giữa các lớp.
+
+Các file kết quả đã lưu trong thư mục:
+C:\Users\dungt\Downloads\BCKLTN\model_comparison_output

@@ -1,0 +1,4 @@
+﻿model,file
+CNN,C:\Users\dungt\Downloads\BCKLTN\CNN-output\CNN_test_predictions.csv
+MobileNetV2,C:\Users\dungt\Downloads\BCKLTN\mobilenetv2_output\mobilenetv2_classification_report_val.txt
+ResNet50,C:\Users\dungt\Downloads\BCKLTN\resnet50_output\resnet50_classification_report_val.txt

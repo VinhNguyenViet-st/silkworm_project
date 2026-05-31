@@ -1,0 +1,6 @@
+
+Kết quả so sánh cho thấy mô hình Random Forest đạt Macro F1-score cao nhất,
+với Precision = 0.8916, Recall = 0.8687
+và F1-score = 0.8576. Do đó, trong phạm vi 4 mô hình học máy
+truyền thống được thử nghiệm, Random Forest cho hiệu quả phân loại tốt nhất
+trên tập kiểm thử.

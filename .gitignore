@@ -1,0 +1,24 @@
+cat >> .gitignore <<'EOF'
+
+# Dataset
+dataset_classification.zip
+dataset_classification/
+Dataset.zip
+*.zip
+
+# Model and output files
+outputs_knn/
+resnet50_output/
+mobilenetv2_output/
+CNN-output/
+*.pkl
+*.keras
+*.h5
+*.pt
+*.onnx
+
+# Jupyter/Python cache
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+EOF

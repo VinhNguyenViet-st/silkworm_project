@@ -1,0 +1,4 @@
+﻿Model,Precision,Recall,F1-score,mAP50,mAP50-95,Result dir,CSV file
+YOLO11n,0.86501,0.88705,0.8758913741538531,0.85543,0.60243,C:\Users\dungt\Downloads\BCKLTN\ket_qua_yolov11\YOLO11n,C:\Users\dungt\Downloads\BCKLTN\ket_qua_yolov11\YOLO11n\results.csv
+YOLOv8n,0.86719,0.87809,0.8726059624816648,0.85193,0.60208,C:\Users\dungt\Downloads\BCKLTN\ket_qua_yolov8\YOLOv8n,C:\Users\dungt\Downloads\BCKLTN\ket_qua_yolov8\YOLOv8n\results.csv
+YOLOv5n,0.85861,0.86666,0.8626162196062065,0.84444,0.59161,C:\Users\dungt\Downloads\BCKLTN\ket_qua_yolov5\YOLOv5n,C:\Users\dungt\Downloads\BCKLTN\ket_qua_yolov5\YOLOv5n\results.csv

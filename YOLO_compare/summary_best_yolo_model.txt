@@ -1,0 +1,7 @@
+
+Kết quả so sánh cho thấy mô hình YOLO11n đạt F1-score cao nhất,
+với Precision = 0.8650, Recall = 0.8871,
+F1-score = 0.8759, mAP50 = 0.8554
+và mAP50-95 = 0.6024. Do đó, trong phạm vi 3 mô hình YOLO
+được thử nghiệm, YOLO11n cho hiệu quả phát hiện và phân loại tốt nhất
+trên tập đánh giá.
