@@ -1,0 +1,4 @@
+﻿model,source,accuracy,precision_macro,recall_macro,f1_macro,precision_weighted,recall_weighted,f1_weighted,support
+ResNet50,C:\Users\dungt\Downloads\BCKLTN\resnet50_output\resnet50_test_predictions.csv,0.993907083015994,0.9919191919191919,0.9926832317549618,0.9922205724292431,0.9940547900943941,0.993907083015994,0.9939214334207659,1313.0
+CNN,C:\Users\dungt\Downloads\BCKLTN\CNN-output\CNN_test_predictions.csv,0.9772004241781548,0.9763512306648091,0.9772074733179649,0.9766053288330374,0.9777663037937944,0.9772004241781548,0.9773171661453699,1886.0
+MobileNetV2,C:\Users\dungt\Downloads\BCKLTN\mobilenetv2_output\mobilenetv2_classification_report_val.txt,0.9742,0.9729,0.9682,0.9703,0.9748,0.9742,0.9743,2990.0
