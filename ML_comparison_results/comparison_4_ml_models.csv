@@ -1,5 +1,0 @@
-﻿Model,Accuracy,Precision,Recall,F1-score,Report file
-Random Forest,0.8600212089077413,0.891559511345131,0.8686617727672798,0.8576090096903061,outputs_random_forest\Random_forest_classification_report.csv
-SVM,0.8584305408271474,0.8803663620394134,0.8659182093704731,0.8573183213711842,outputs_svm\SVM_classification_report.csv
-Logistic Regression,0.852067868504772,0.8836322753927316,0.8607419026774746,0.8511287663048609,outputs_logistic_regression\Logistic_regression_classification_report.csv
-KNN,0.7083775185577943,0.7352788147701483,0.711821248786444,0.6935711642722383,outputs_knn\KNN_classification_report.csv
